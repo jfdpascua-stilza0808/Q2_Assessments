@@ -1,2 +1,2 @@
-# Q2_Assessments
-This repository contains all of the Q2 assessments.
+# Q2_FA1_ModularCalculator
+This repository contains version 1 and 2 of Pascua_ModularCalculator.
